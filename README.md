@@ -12,9 +12,9 @@
 </h2>
 
 ## Contacts
-[Discord](https://discord.gg/ZqS836yx9k)
+[Discord](https://discord.gg/f63JDGbccc)
 <br/>
-[Youtube](https://youtube.com/c/7GrandDadVape)
+[Youtube](https://youtube.com/c/ScrxpedMeteor)
 
 ## Usage
 1. Download the specific scripting utility of your choice.
@@ -31,7 +31,7 @@ Half of the time its usually the scripting utility at fault, please make sure th
 ### User Issues
 If its not the supposed utility at fault, please try some troubleshooting steps.
 1. Deleting the newvape folder (WITH THE GAME CLOSED).
-2. Making sure you have connection to [the main loadstring.](https://raw.githubusercontent.com/7GrandDadPGN/VapeV4ForRoblox/refs/heads/main/NewMainScript.lua)
+2. Making sure you have connection to [the main loadstring.](https://raw.githubusercontent.com/ScrapedMeteor/VapeV4ForRoblox/refs/heads/main/NewMainScript.lua)
 3. Ensuring no external script is conflicting with vape.
 
 ## Developers & Credits
